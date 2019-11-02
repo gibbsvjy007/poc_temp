@@ -1,0 +1,1 @@
+enum PhotoSourceType { GALLERY, CAMERA }
